@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Brandon Trieu
 # FILENAME: naive_bayes.py
-# SPECIFICATION: This program reads in a training dataset and a test dataset to train a Naive Bayes model and make predictions on the test dataset.
+# SPECIFICATION: This program implements a Naïve Bayes classifier to predict whether to play tennis based on weather conditions, reading in a training dataset and a test dataset to make predictions.
 # FOR: CS 4210- Assignment #2
 # TIME SPENT: 8 hours
 #-----------------------------------------------------------*/
